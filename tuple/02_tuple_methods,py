@@ -1,0 +1,16 @@
+a = (1, 5, 45, 456, False, "Shreyash", "Rohan")
+print(a)
+
+no = a.count(45)
+print(no)
+
+i = a.index(456)
+print(i)
+
+print(len(a))
+
+tuple1 = (1,2,3)
+tuple2 = (4,5,6)
+concatinated = tuple1 + tuple2
+print(concatinated)
+
